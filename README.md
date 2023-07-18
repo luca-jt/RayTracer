@@ -6,7 +6,7 @@ GUI to manipulate the Scene and initialize the rendering process.
 # Requirements
 - C++17
 - premake5
-- [Vulkan SDK](https://vulkan.lunarg.com/)
+- [Vulkan SDK](https://vulkan.lunarg.com/) IMPORTANT: you might have to specify the include path
 
 # Features
 - Multithreading and Threadpooling
