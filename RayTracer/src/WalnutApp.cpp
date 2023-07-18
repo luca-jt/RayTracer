@@ -8,10 +8,6 @@ class ExampleLayer : public Walnut::Layer
 public:
 	virtual void OnUIRender() override
 	{
-		ImGui::Begin("Hello");
-		ImGui::Button("Button");
-		ImGui::End();
-
 		ImGui::ShowDemoWindow();
 	}
 };
