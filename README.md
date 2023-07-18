@@ -1,2 +1,2 @@
-# Describtion
-Interactive Raytracing environment.
+# RayTracer
+Own Ray Tracing implementation in C++ for practice purposes.
