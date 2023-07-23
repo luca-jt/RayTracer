@@ -17,7 +17,7 @@ target_include_directories("RayTracer" PRIVATE
   $<$<CONFIG:Debug>:D:/Media/coding/RayTracer/Walnut/vendor/glfw/include>
   $<$<CONFIG:Debug>:D:/Media/coding/RayTracer/Walnut/vendor/glm>
   $<$<CONFIG:Debug>:D:/Media/coding/RayTracer/Walnut/Walnut/src>
-  $<$<CONFIG:Debug>:C:\VulkanSDK\1.3.250.1/Include>
+  $<$<CONFIG:Debug>:C:/VulkanSDK/1.3.250.1/Include>
 )
 target_compile_definitions("RayTracer" PRIVATE
   $<$<CONFIG:Debug>:WL_PLATFORM_WINDOWS>
@@ -60,7 +60,7 @@ target_include_directories("RayTracer" PRIVATE
   $<$<CONFIG:Release>:D:/Media/coding/RayTracer/Walnut/vendor/glfw/include>
   $<$<CONFIG:Release>:D:/Media/coding/RayTracer/Walnut/vendor/glm>
   $<$<CONFIG:Release>:D:/Media/coding/RayTracer/Walnut/Walnut/src>
-  $<$<CONFIG:Release>:C:\VulkanSDK\1.3.250.1/Include>
+  $<$<CONFIG:Release>:C:/VulkanSDK/1.3.250.1/Include>
 )
 target_compile_definitions("RayTracer" PRIVATE
   $<$<CONFIG:Release>:WL_PLATFORM_WINDOWS>
@@ -105,7 +105,7 @@ target_include_directories("RayTracer" PRIVATE
   $<$<CONFIG:Dist>:D:/Media/coding/RayTracer/Walnut/vendor/glfw/include>
   $<$<CONFIG:Dist>:D:/Media/coding/RayTracer/Walnut/vendor/glm>
   $<$<CONFIG:Dist>:D:/Media/coding/RayTracer/Walnut/Walnut/src>
-  $<$<CONFIG:Dist>:C:\VulkanSDK\1.3.250.1/Include>
+  $<$<CONFIG:Dist>:C:/VulkanSDK/1.3.250.1/Include>
 )
 target_compile_definitions("RayTracer" PRIVATE
   $<$<CONFIG:Dist>:WL_PLATFORM_WINDOWS>
