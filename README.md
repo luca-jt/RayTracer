@@ -1,6 +1,6 @@
 # Describtion
 In the process of learning the basics of ray tracing, I created this Ray Tracer with a [Walnut](https://github.com/StudioCherno/Walnut/)\
-(using ```Imgui``` and ```Vulkan```)\
+(using ```Imgui```, ```Vulkan```, and ```GLFW```)\
 GUI to manipulate the Scene and initialize the rendering process.
 
 # Requirements
@@ -12,6 +12,3 @@ GUI to manipulate the Scene and initialize the rendering process.
 # Features
 - Multithreading and Threadpooling
 - Rendering on the Graphics Card
-
-# Usage
-Build the Project via VS2022 or use ```premake5``` and ```msbuild``` seperatly.
