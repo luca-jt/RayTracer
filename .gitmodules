@@ -1,9 +1,9 @@
-[submodule "Walnut"]
-	path = Walnut
-	url = https://github.com/TheCherno/Walnut
 [submodule "AnaLinA"]
 	path = AnaLinA
 	url = https://github.com/luca-jt/AnaLinA.git
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/Enhex/premake-cmake.git
+[submodule "Walnut"]
+	path = Walnut
+	url = https://github.com/luca-jt/Walnut.git
