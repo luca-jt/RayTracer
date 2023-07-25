@@ -1,6 +1,7 @@
 # Describtion
-A GUI App Template with a [Walnut](https://github.com/StudioCherno/Walnut/) base.\
-(using ```Imgui```, ```Vulkan```, and ```GLFW```)
+In the process of learning the basics of ray tracing, I created this Ray Tracer with a [Walnut](https://github.com/StudioCherno/Walnut/)\
+(using ```Imgui```, ```Vulkan```, and ```GLFW```)\
+GUI to manipulate the Scene and initialize the rendering process.
 
 # Requirements
 - C++17
@@ -15,3 +16,7 @@ A GUI App Template with a [Walnut](https://github.com/StudioCherno/Walnut/) base
 ## CMake
 - Do the steps for premake.
 - Run the command ```premake5 cmake```.
+
+# Features
+- Multithreading and Threadpooling
+- Rendering on the Graphics Card
