@@ -1,3 +1,4 @@
+**CURRENTLY NOT WORKING**
 # Description
 In the process of learning the basics of ray tracing, I created this Ray Tracer with a [Walnut](https://github.com/StudioCherno/Walnut/)\
 (using ```Imgui```, ```Vulkan```, and ```GLFW```)\
